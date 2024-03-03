@@ -7,3 +7,5 @@
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramzel1414&theme=tokyonight) ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramzel1414&theme=tokyonight&utcOffset=8)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ramzel1414&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
