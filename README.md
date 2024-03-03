@@ -6,4 +6,4 @@
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramzel1414&theme=tokyonight) ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramzel1414&theme=tokyonight&utcOffset=8)
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ramzel1414&show_icons=true&theme=merko&count_private=true&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ramzel1414&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
