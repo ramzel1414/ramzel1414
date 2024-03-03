@@ -1,8 +1,6 @@
-# Streak
+# My Stats (mostly for fun)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ramzel1414&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-# My Stats (mostly for fun)
 
 | Stats | Productive Time |
 | --- | --- |
