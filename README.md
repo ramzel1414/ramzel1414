@@ -15,3 +15,5 @@
 | Streak |
 | --- |    
 | [![GitHub Streak](https://streak-stats.demolab.com?user=ramzel1414&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) |
+
+![snake gif](https://github.com/ramzel1414/ramzel1414/blob/output/github-contribution-grid-snake.gif)
