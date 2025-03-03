@@ -1,19 +1,57 @@
-# My Stats (mostly for fun)
+<h1 align="center">🚀 Plus Ultra 🚀</h1>
 
-| Profile Details | 
-| --- |
-| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramzel1414&theme=tokyonight) | 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramzel1414&theme=tokyonight" alt="Profile Details">
+</div>
 
-| Repos per Language | Most Commit Language |
-| --- | --- |
-| ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramzel1414&theme=tokyonight) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramzel1414&theme=tokyonight) |
+---
 
-| Stats | Productive Time |
-| --- | --- |
-| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramzel1414&theme=tokyonight) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramzel1414&theme=tokyonight&utcOffset=8) |
+### 📊 GitHub Stats & Languages
 
-| Streak |
-| --- |    
-| [![GitHub Streak](https://streak-stats.demolab.com?user=ramzel1414&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Repos per Language</b></td>
+      <td align="center"><b>Most Commit Language</b></td>
+    </tr>
+    <tr>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramzel1414&theme=tokyonight"></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramzel1414&theme=tokyonight"></td>
+    </tr>
+  </table>
+</div>
 
-![snake gif](https://github.com/ramzel1414/ramzel1414/blob/output/snake.svg)
+---
+
+### 📈 Productivity & Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Stats</b></td>
+      <td align="center"><b>Productive Time</b></td>
+    </tr>
+    <tr>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramzel1414&theme=tokyonight"></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramzel1414&theme=tokyonight&utcOffset=8"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🔥 GitHub Streak
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ramzel1414&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  </a>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/ramzel1414/ramzel1414/blob/output/snake.svg" alt="Snake animation">
+</div>
