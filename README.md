@@ -1,8 +1,12 @@
 # My Stats (mostly for fun)
 
-| Profile Details | Repos per Language | Most Commit Language |
-| --- | --- | --- |
-| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramzel1414&theme=tokyonight) | ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramzel1414&theme=tokyonight) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramzel1414&theme=tokyonight) |
+| Profile Details | 
+| --- |
+| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramzel1414&theme=tokyonight) | 
+
+| Repos per Language | Most Commit Language |
+| --- | --- |
+| ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramzel1414&theme=tokyonight) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramzel1414&theme=tokyonight) |
 
 | Stats | Productive Time |
 | --- | --- |
