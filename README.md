@@ -104,10 +104,10 @@
 
 ## 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![CSS Battle - Day 323](https://ytcards.demolab.com/?id=vgt0a8vBzrc&title=CSS+Battle+-+Day+323&lang=en&timestamp=1743264036&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CSS Battle - Day 323")](https://www.youtube.com/watch?v=vgt0a8vBzrc)
 [![CSS Battle - Day 322](https://ytcards.demolab.com/?id=dnypDl6c1eo&title=CSS+Battle+-+Day+322&lang=en&timestamp=1743141854&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CSS Battle - Day 322")](https://www.youtube.com/watch?v=dnypDl6c1eo)
 [![CSS Battle - Day 321](https://ytcards.demolab.com/?id=93dCxCb9mYM&title=CSS+Battle+-+Day+321&lang=en&timestamp=1743043978&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CSS Battle - Day 321")](https://www.youtube.com/watch?v=93dCxCb9mYM)
 [![CSS Battle - Day 320](https://ytcards.demolab.com/?id=uR2kZ5NHKks&title=CSS+Battle+-+Day+320&lang=en&timestamp=1742959650&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CSS Battle - Day 320")](https://www.youtube.com/watch?v=uR2kZ5NHKks)
 [![CSS Battle - Day 319](https://ytcards.demolab.com/?id=X-rp5UBYQjI&title=CSS+Battle+-+Day+319&lang=en&timestamp=1742893075&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CSS Battle - Day 319")](https://www.youtube.com/watch?v=X-rp5UBYQjI)
 [![CSS Battle - Day 318](https://ytcards.demolab.com/?id=5j00yRF5Wdo&title=CSS+Battle+-+Day+318&lang=en&timestamp=1742783691&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CSS Battle - Day 318")](https://www.youtube.com/watch?v=5j00yRF5Wdo)
-[![CSS Battle - Day 317](https://ytcards.demolab.com/?id=H2_MvcC5kME&title=CSS+Battle+-+Day+317&lang=en&timestamp=1742746396&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CSS Battle - Day 317")](https://www.youtube.com/watch?v=H2_MvcC5kME)
 <!-- END YOUTUBE-CARDS -->
